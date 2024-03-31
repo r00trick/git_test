@@ -1,2 +1,3 @@
 # git_test
-Odin test
+My first github repo!
+Let's go!!!
